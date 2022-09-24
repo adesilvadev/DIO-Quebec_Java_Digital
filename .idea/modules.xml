@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bootcamp_Quebec_Java_Digital.iml" filepath="$PROJECT_DIR$/Bootcamp_Quebec_Java_Digital.iml" />
       <module fileurl="file://$PROJECT_DIR$/EMJaula1/EMJaula1.iml" filepath="$PROJECT_DIR$/EMJaula1/EMJaula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasCondicionaisAula1/EstruturasCondicionaisAula1.iml" filepath="$PROJECT_DIR$/EstruturasCondicionaisAula1/EstruturasCondicionaisAula1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MetodosJavaAula1/MetodosJavaAula1.iml" filepath="$PROJECT_DIR$/MetodosJavaAula1/MetodosJavaAula1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MetodosJavaAula2/MetodosJavaAula2.iml" filepath="$PROJECT_DIR$/MetodosJavaAula2/MetodosJavaAula2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MetodosJavaAula3/MetodosJavaAula3.iml" filepath="$PROJECT_DIR$/MetodosJavaAula3/MetodosJavaAula3.iml" />
